@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.0.0",
-    "installerUrl":  "https://Gh0st0019.github.io/bunny-updates/bunny/BunnySetup.exe",
+    "installerUrl":  "https://github.com/Gh0st0019/bunny-updates/releases/download/v1.0.0/BunnySetup.exe",
     "sha256":  "a5f623843d64ea986e8ac9741dd9c5c5c27b300b4cccdf4368d9bf6b03822dda",
     "notes":  "Aggiornamento Bunny 1.0.0"
 }
